@@ -43,3 +43,4 @@ Why **Flutter**? - Best frontend framework at the time. We hope it gets better s
 
 ### TODO:
 - Configure sway touch input.
+- Avoid installing entire gnome group with gdm3.
